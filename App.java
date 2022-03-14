@@ -1,6 +1,8 @@
-public class Myprogram{
-	public static void main(String[] a)
+public class Myprogram
 {
-	System.out.println("Hello Java");	
-} 
+	public static void main(String[] a)
+	{
+		System.out.println("Hello Java");	
+		System.out.println("Some text...!");
+	} 
 }
